@@ -1,5 +1,5 @@
-# 2. Desarrollo de programas y algortimos - Scratch y Flow Chart
-## Enunciado de las prácticas
+# Práctica 01. Desarrollo de programas y algortimos - Scratch y Flow Chart (Tema 2)
+## Enunciado
 
 **Objetivos**: 
 - Entender que mediante la programación se pueden automatizar tareas cuya salida dependa de la entrada del programa.
@@ -58,3 +58,8 @@ De este programa se crearán dos versiones:
 - b) Se automatizará el código mediante bucles.
 
 [Ejemplo de ejecución del programa](practica_scratch04.mp4)
+
+
+```python
+
+```
