@@ -42,7 +42,7 @@ Se creará un sistema inteligente basado en reglas:
 - Si la temperatura está entre [0, 9] grados el gato dirá: "Hace frio, pero se puede soportar" durante 2 segundos.
 - Si la temperatura está entre [10, 19] grados el gato dirá: "La temperatura es agradable" durante 2 segundos.
 - Si la temperatura está entre [20, 29] grados el gato dirá: "Empieza el calorcito" durante 2 segundos.
-- Si la temperatura es **igual o superior a 30** [30, $\infty$] grados el gato dirá: "Hace mucho, pero mucho calor" durante 2 segundos.
+- Si la temperatura es **igual o superior a 30** [30, $\infty$) grados el gato dirá: "Hace mucho, pero mucho calor" durante 2 segundos.
 
 **Generar además el Diagrama de Flujo de esta solución**
 
