@@ -39,10 +39,10 @@ Se creará un sistema inteligente basado en reglas:
 - Al hacer clic en la bandera verde...
 - Preguntará "¿Qué temperatura hace hoy?"
 - Si la temperatura es inferior a 0 grados el gato dirá: "Hace mucho, pero que mucho frío" durante 2 segundos.
-- Si la temperatura está entre [0, 9] el gato dirá: "Hace frio, pero se puede soportar" durante 2 segundos.
-- Si la temperatura está entre [10, 19] el gato dirá: "La temperatura es agradable" durante 2 segundos.
-- Si la temperatura está entre [20, 29] el gato dirá: "Empieza el calorcito" durante 2 segundos.
-- Si la temperatura es superior a 30 grados el gato dirá: "Hace mucho, pero mucho calor" durante 2 segundos.
+- Si la temperatura está entre [0, 9] grados el gato dirá: "Hace frio, pero se puede soportar" durante 2 segundos.
+- Si la temperatura está entre [10, 19] grados el gato dirá: "La temperatura es agradable" durante 2 segundos.
+- Si la temperatura está entre [20, 29] grados el gato dirá: "Empieza el calorcito" durante 2 segundos.
+- Si la temperatura es **igual o superior a 30** [30, \infty] grados el gato dirá: "Hace mucho, pero mucho calor" durante 2 segundos.
 
 **Generar además el Diagrama de Flujo de esta solución**
 
