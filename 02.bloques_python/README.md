@@ -59,6 +59,16 @@ Uy, ¿qué ha pasado?
 - Si no...
    + El gato debe decir "¡Vaya! Ahí me has pillado" durante 2 segundo.
 
+**Ejemplo de ejecución**
+
+Se leerá la palabra por teclado.
+
+```
+¡Hola, soy el gato IA!
+Dime una palabra en español y la traduciré al inglés: Hola
+Hola se dice en inglés: hello
+```
+
 ### Programa #3: Condicionales anidados
 **Generar distintas salidas en función de la información de entrada - Avanzado**
 
@@ -71,21 +81,40 @@ Se creará un sistema inteligente basado en reglas:
 - Si la temperatura está entre [20, 29] el gato dirá: "Empieza el calorcito" durante 2 segundos.
 - Si la temperatura es superior a 30 grados el gato dirá: "Hace mucho, pero mucho calor" durante 2 segundos.
 
-**Ejemplo de ejecución**
-```
-¡Hola, soy el gato IA!
-Dime una palabra en español y la traduciré al inglés: Hola
-Hola se dice en inglés: hello
-```
+**Trabajar con if anidados, como el pseudocódigo**
 
 ### Programa #4: Bucles
 **Automatizar y optimizar la repetición de una serie de tareas**
 
 Se creará un programa, similar al desarrollado en Scratch, en el cuál se diga en primer lugar "¡Hola!", a continuación se mostrará un "\*" por cada paso hasta dar 8 y se mostrárá el texto "¡Llegué!". Se mostrará el texto "Volviendo" y de vuelta se mostrará un "-" por cada paso de vuelta. Al finalizar se mostrará el texto "¡Volví!".
 
-Algo como lo siguiente:
+**Ejemplo de ejecución**
+
+Se mostrará dejando 1 segundo entre cada paso (vez que se muestra al gato). Es como si el gato se moviera verticalmente, en lugar de horizontal.
+
 ```
-¡Hola!********¡Llegué! Volviendo --------¡Volví!
+¡Hola!
+*
+*
+*
+*
+*
+*
+*
+*
+¡Llegué! Volviendo 
+-
+-
+-
+-
+-
+-
+-
+-
+¡Volví!
 ```
 
 
+```python
+
+```
