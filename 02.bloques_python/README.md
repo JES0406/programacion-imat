@@ -1,7 +1,7 @@
 # Práctica 02. De la programación de bloques a Python (Tema 3)
 ## Enunciado  de las prácticas
 
-**Programación**: convertir los programas realizados en Scratch al lenguaje de programación Python. Se tomará como punto de partida, la solución propuesta por el profesor.
+**Programación**: convertir los programas realizados en Scratch al lenguaje de programación Python. Se tomará como punto de partida, la solución propuesta por el profesor. 
 
 
 **IMPORTANTE: Cada programa se escribirá en una celda y se solucionará en este mismo notebook en la celda indicada**. 
